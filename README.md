@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @bongoexe
-- 👀 I’m interested in high performance automatization of large data stack management on decentralized networks 
+- 👀 I’m interested in high performance automatization of large data stack management
 - 🌱 I’m currently learning Scala and Octave implementation in datasets
 - 📫 How to reach me: bongoexe1 on twitter  
 
